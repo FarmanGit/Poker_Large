@@ -13,7 +13,7 @@ using namespace std;
         int mise;
         do
         {
-            cout<<"What is your choice?"<<endl;
+            cout<<"What is your choice buddy?"<<endl;
             cout<<"1 : Check"<<endl;
             cout<<"2 : Bet/call"<<endl;
             cout<<"3 : Flop"<<endl;
